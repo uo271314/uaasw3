@@ -21,6 +21,10 @@ header > h1 {
     margin: 0 auto;
 }
 
+header > article > a, header > h1 > a {
+    color: #ffffff;
+}
+
 header > p {
     font-size: 1.1em;
     color: #ffffff;
